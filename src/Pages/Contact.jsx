@@ -25,7 +25,7 @@ function Contact() {
               </a>
               <a href="/">
                 <IconLocation />
-                &nbsp; London, Serbia
+                &nbsp; London, England
               </a>
             </div>
             <div className="contact-div__form">
